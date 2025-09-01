@@ -4,7 +4,8 @@ This project aims to detect fraudulent credit card transactions using machine le
 
 ## Data
 
-The dataset contains credit card transactions, with features anonymized for privacy. The target variable `Class` indicates whether a transaction is fraudulent (1) or not (0). The dataset is highly imbalanced, with a very small percentage of fraudulent transactions.
+The dataset contains credit card transactions, with features anonymized for privacy. The target variable `Class` indicates whether a transaction is fraudulent (1) or not (0). The dataset is highly imbalanced, with a very small percentage of fraudulent transactions. The dataset can be found here:
+https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud
 
 ## Methodology
 
