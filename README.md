@@ -19,8 +19,8 @@ The project follows these steps:
 
 The trained models achieved the following ROC-AUC scores on the test set:
 
-- Decision Tree Classifier: {{roc_auc_dt:.3f}}
-- Linear SVM: {{roc_auc_svm:.3f}}
+- Decision Tree Classifier: 98.936
+- Linear SVM: 97.564
 
 These results indicate that both models perform well in distinguishing between fraudulent and legitimate transactions, with the Linear SVM showing slightly better performance.
 
